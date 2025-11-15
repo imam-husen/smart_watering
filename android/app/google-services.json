@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "768897869903",
+    "firebase_url": "https://smart-water-45150-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-water-45150",
+    "storage_bucket": "smart-water-45150.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768897869903:android:eb0394769f34674c73e23a",
+        "android_client_info": {
+          "package_name": "com.example.smart_watering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06VGkuDta-kJ3480jQaVY4_ZiC61R_WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
