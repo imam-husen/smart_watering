@@ -1,16 +1,11 @@
-# smart_watering
+# 🌿 Smart Watering System
 
-A new Flutter project.
 
-## Getting Started
+## 👨‍🔬 Tim Pengembang
 
-This project is a starting point for a Flutter application.
+Kelompok pengembang proyek ini terdiri dari mahasiswa yang berdedikasi dalam bidang teknologi:
 
-A few resources to get you started if this is your first Flutter project:
+- **Yahya Zakaria**
+- **Imam Husen Al Munawaroh**
+- **Siti Nurul Widyaningsih**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
